@@ -1,0 +1,29 @@
+{
+  "name": "modal-sheet",
+  "main": "modal-sheet.html",
+  "description": "Sheet that slide up from the bottom of the screen to reveal more content.",
+  "authors": [
+    "Eduardo Sada"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "modal",
+    "sheet",
+    "dialog",
+    "popup",
+    "lightbox"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.7.0",
+    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
+    "paper-dialog": "PolymerElements/paper-dialog#^1.0.0",
+    "neon-animation": "PolymerElements/neon-animation#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
+}
